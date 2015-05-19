@@ -4,7 +4,7 @@ A Cache framework for java and android application.
 
 # how to use
 
-  Cache<String, Object> objectCache = CacheFactory.createCache("objects");
+  	Cache<String, Object> objectCache = CacheFactory.createCache("objects");
         //set max cache size
         objectCache.setMaxCacheSize(1024 * 1024);
         //set max lifetime for cache objects
