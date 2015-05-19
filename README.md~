@@ -1,0 +1,2 @@
+# SimpleCache
+用Java实现的缓存工框架，可用于Java和Android项目开发中的缓存数据，你可以实现Cache和CacheFactoryStrategy来自定义你的缓存实现逻辑。
